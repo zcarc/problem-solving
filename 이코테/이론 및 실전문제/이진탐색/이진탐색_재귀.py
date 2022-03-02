@@ -1,5 +1,5 @@
 def binary_search(array, target, start, end):
-    print(start, end)
+
     if start > end:
         return None
 
