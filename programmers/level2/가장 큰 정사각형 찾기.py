@@ -34,3 +34,10 @@ def solution(board):
 # board = [[0, 0], [1, 0]]
 board = [[0, 0], [0, 1]]
 print(solution(board))
+
+
+# 참고
+# https://onlydev.tistory.com/65
+# https://minnnne.tistory.com/16
+# https://soobarkbar.tistory.com/164
+# https://j-sik.tistory.com/129
