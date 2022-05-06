@@ -5,7 +5,7 @@
 ### Level 1
 | 번호 | 문제 | 풀이코드 |
 | --- | --- | --- |
-| 1 | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | [2016년.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level1/2016%EB%85%84.py) |
+| 1 | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | [2016년.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level1/2016%EB%85%84.py) <br /> [2016년.js](https://github.com/zcarc/problem-solving/blob/main/Programmers/level1/2016%EB%85%84.js) |
 | 2 | [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) | [3진법 뒤집기_1.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0_1.py) <br/> [3진법 뒤집기_2.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0_2.py) |
 | 3 | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [K번째 수.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level1/K%EB%B2%88%EC%A7%B8%20%EC%88%98.py) |
 | 4 | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | [x만큼 간격이 있는 n개의 숫자.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level1/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.py) |
