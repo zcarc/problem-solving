@@ -4,7 +4,7 @@
 
 ### Level 1
 | 번호 | 문제 | 풀이코드 |
-| --- | --- | --- |
+| --- | --- | ------ |
 | 1 | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | [2016년.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level1/2016%EB%85%84.py) <br /> [2016년.js](https://github.com/zcarc/problem-solving/blob/main/Programmers/level1/2016%EB%85%84.js) |
 | 2 | [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) | [3진법 뒤집기_1.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0_1.py) <br/> [3진법 뒤집기_2.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0_2.py) |
 | 3 | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [K번째 수.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level1/K%EB%B2%88%EC%A7%B8%20%EC%88%98.py) |
@@ -50,3 +50,10 @@
 | 43 | [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) | [행렬의 덧셈.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level1/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.py) |
 | 44 | [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389) | [나머지가 1이 되는 수 찾기.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.py) |
 | 45 | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | [예산.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level1/%EC%98%88%EC%82%B0.py) |
+
+### Level 3
+| 번호 | 문제 | 풀이코드 |
+| --- | --- | ------ |
+| 1 | [[1차] 셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678) | [[1차] 셔틀버스.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level3/%5B1%EC%B0%A8%5D%20%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4.py) |
+| 2| [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946) | [하노이의 탑.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level3/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.py) |
+| 3 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) | [단속카메라.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level3/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.py) |
