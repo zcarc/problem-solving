@@ -95,7 +95,7 @@
 | 2 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) | [단속카메라.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level3/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.py) |
 | 3 | [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946) | [하노이의 탑.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level3/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.py) |
 
-## LeetCode
+## 리트코드
 | 번호 | 문제 | 풀이코드 |
 | --- | --- | ------ |
 | 1 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock.md](https://github.com/zcarc/problem-solving/blob/main/LeetCode/121_Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.md) |
@@ -139,7 +139,7 @@
 | 39 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Reverse Linked List II.md](https://github.com/zcarc/problem-solving/blob/main/LeetCode/92_Reverse%20Linked%20List%20II/92.md) |
 | 40 | [Reorder Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Reorder Log Files.md](https://github.com/zcarc/problem-solving/blob/main/LeetCode/937_Reorder%20Log%20Files/937.md) |
 
-## BOJ
+## 백준
 | 번호 | 문제 | 풀이코드 |
 | --- | --- | ------ |
 | 1 | [A+B](https://www.acmicpc.net/problem/1000) | [A+B.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1000.py) |
