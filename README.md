@@ -245,4 +245,136 @@
 | 101 | [단어 뒤집기](https://www.acmicpc.net/problem/9093) | [단어 뒤집기.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/9093_1.py) |
 | 102 | [시험 성적](https://www.acmicpc.net/problem/9498) | [시험 성적.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/9498.py) |
 
+## 인프런
+
+### 구현
+| 번호 | 문제 | 풀이코드 |
+| --- | --- | ------ |
+| 1 | K번째 수 | [K번째 수.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section2_%EA%B5%AC%ED%98%84/K%EB%B2%88%EC%A7%B8%20%EC%88%98.py) |
+| 2 | K번째 약수 | [K번째 약수.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section2_%EA%B5%AC%ED%98%84/K%EB%B2%88%EC%A7%B8%20%EC%95%BD%EC%88%98.py) |
+| 3 | K번째 큰 수 | [K번째 큰 수.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section2_%EA%B5%AC%ED%98%84/K%EB%B2%88%EC%A7%B8%20%ED%81%B0%20%EC%88%98.py) |
+| 4 | 대표값 | [대표값.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section2_%EA%B5%AC%ED%98%84/%EB%8C%80%ED%91%9C%EA%B0%92.py) |
+| 5 | 뒤집은 소수 | [뒤집은 소수.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section2_%EA%B5%AC%ED%98%84/%EB%92%A4%EC%A7%91%EC%9D%80%20%EC%86%8C%EC%88%98.py) |
+| 6 | 소수(에라토스테네스의 체) | [소수(에라토스테네스의 체).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section2_%EA%B5%AC%ED%98%84/%EC%86%8C%EC%88%98(%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4).py) |
+| 7 | 자릿수의 합 | [자릿수의 합.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section2_%EA%B5%AC%ED%98%84/%EC%9E%90%EB%A6%BF%EC%88%98%EC%9D%98%20%ED%95%A9.py) |
+| 8 | 점수계산 | [점수계산.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section2_%EA%B5%AC%ED%98%84/%EC%A0%90%EC%88%98%EA%B3%84%EC%82%B0.py) |
+| 9 | 정다면체 | [정다면체.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section2_%EA%B5%AC%ED%98%84/%EC%A0%95%EB%8B%A4%EB%A9%B4%EC%B2%B4.py) |
+| 10 | 주사위 게임 | [주사위 게임.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section2_%EA%B5%AC%ED%98%84/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84.py) |
+
+### 탐색, 시뮬레이션
+| 번호 | 문제 | 풀이코드 |
+| --- | --- | ------ |
+| 1 | 격자판 최대합 | [격자판 최대합.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section3_%ED%83%90%EC%83%89%2C%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EA%B2%A9%EC%9E%90%ED%8C%90%20%EC%B5%9C%EB%8C%80%ED%95%A9.py) |
+| 2 | 격자판 회문수 | [격자판 회문수.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section3_%ED%83%90%EC%83%89%2C%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EA%B2%A9%EC%9E%90%ED%8C%90%20%ED%9A%8C%EB%AC%B8%EC%88%98.py) |
+| 3 | 곳감(모래시계) | [곳감(모래시계).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section3_%ED%83%90%EC%83%89%2C%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EA%B3%B3%EA%B0%90(%EB%AA%A8%EB%9E%98%EC%8B%9C%EA%B3%84).py) |
+| 4 | 두 리스트 합치기 | [두 리스트 합치기.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section3_%ED%83%90%EC%83%89%2C%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EB%91%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%95%A9%EC%B9%98%EA%B8%B0.py) |
+| 5 | 봉우리 | [봉우리.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section3_%ED%83%90%EC%83%89%2C%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EB%B4%89%EC%9A%B0%EB%A6%AC.py) |
+| 6 | 사과나무(다이아몬드) | [사과나무(다이아몬드).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section3_%ED%83%90%EC%83%89%2C%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EC%82%AC%EA%B3%BC%EB%82%98%EB%AC%B4(%EB%8B%A4%EC%9D%B4%EC%95%84%EB%AA%AC%EB%93%9C).py) |
+| 7 | 수들의 합 | [수들의 합.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section3_%ED%83%90%EC%83%89%2C%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9.py) |
+| 8 | 숫자만 추출 | [숫자만 추출.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section3_%ED%83%90%EC%83%89%2C%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EC%88%AB%EC%9E%90%EB%A7%8C%20%EC%B6%94%EC%B6%9C.py) |
+| 9 | 스도쿠 검사 | [스도쿠 검사.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section3_%ED%83%90%EC%83%89%2C%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EC%8A%A4%EB%8F%84%EC%BF%A0%20%EA%B2%80%EC%82%AC.py) |
+| 10 | 카드 역배치 | [카드 역배치.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section3_%ED%83%90%EC%83%89%2C%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EC%B9%B4%EB%93%9C%20%EC%97%AD%EB%B0%B0%EC%B9%98.py) |
+| 11 | 회문 문자열 검사 | [회문 문자열 검사.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section3_%ED%83%90%EC%83%89%2C%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%ED%9A%8C%EB%AC%B8%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B2%80%EC%82%AC.py) |
+
+### 결정 알고리즘
+| 번호 | 문제 | 풀이코드 |
+| --- | --- | ------ |
+| 1 | 랜선 자르기 | [랜선 자르기.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section4_%EA%B2%B0%EC%A0%95%2C%EA%B7%B8%EB%A6%AC%EB%94%94/%EA%B2%B0%EC%A0%95%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py) |
+| 2 | 마구간 정하기 | [마구간 정하기.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section4_%EA%B2%B0%EC%A0%95%2C%EA%B7%B8%EB%A6%AC%EB%94%94/%EA%B2%B0%EC%A0%95%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%A7%88%EA%B5%AC%EA%B0%84%20%EC%A0%95%ED%95%98%EA%B8%B0.py) |
+| 3 | 뮤직비디오 | [뮤직비디오.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section4_%EA%B2%B0%EC%A0%95%2C%EA%B7%B8%EB%A6%AC%EB%94%94/%EA%B2%B0%EC%A0%95%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%AE%A4%EC%A7%81%EB%B9%84%EB%94%94%EC%98%A4.py) |
+
+### 그리디
+| 번호 | 문제 | 풀이코드 |
+| --- | --- | ------ |
+| 1 | 씨름 선수 | [씨름 선수.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section4_%EA%B2%B0%EC%A0%95%2C%EA%B7%B8%EB%A6%AC%EB%94%94/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%94%A8%EB%A6%84%20%EC%84%A0%EC%88%98.py) |
+| 2 | 역수열 | [역수열.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section4_%EA%B2%B0%EC%A0%95%2C%EA%B7%B8%EB%A6%AC%EB%94%94/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%97%AD%EC%88%98%EC%97%B4.py) |
+| 3 | 증가수열 만들기 | [증가수열 만들기.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section4_%EA%B2%B0%EC%A0%95%2C%EA%B7%B8%EB%A6%AC%EB%94%94/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%A6%9D%EA%B0%80%EC%88%98%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) |
+| 4 | 창고 정리 | [창고 정리.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section4_%EA%B2%B0%EC%A0%95%2C%EA%B7%B8%EB%A6%AC%EB%94%94/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%B0%BD%EA%B3%A0%20%EC%A0%95%EB%A6%AC.py) |
+| 5 | 침몰하는 타이타닉 | [침몰하는 타이타닉.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section4_%EA%B2%B0%EC%A0%95%2C%EA%B7%B8%EB%A6%AC%EB%94%94/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%B9%A8%EB%AA%B0%ED%95%98%EB%8A%94%20%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89.py) |
+| 6 | 회의실 배정 | [회의실 배정.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section4_%EA%B2%B0%EC%A0%95%2C%EA%B7%B8%EB%A6%AC%EB%94%94/%EA%B7%B8%EB%A6%AC%EB%94%94/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py) |
+
+### 자료구조(스택, 큐, 해시, 힙)
+| 번호 | 문제 | 풀이코드 |
+| --- | --- | ------ |
+| 1 | 가장 큰 수 | [가장 큰 수](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section5_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(%EC%8A%A4%ED%83%9D%2C%ED%81%90%2C%ED%95%B4%EC%8B%9C%2C%ED%9E%99)/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.py) |
+| 2 | 공주 구하기 | [공주 구하기](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section5_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(%EC%8A%A4%ED%83%9D%2C%ED%81%90%2C%ED%95%B4%EC%8B%9C%2C%ED%9E%99)/%EA%B3%B5%EC%A3%BC%20%EA%B5%AC%ED%95%98%EA%B8%B0.py) |
+| 3 | 교육과정 설계 | [교육과정 설계](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section5_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(%EC%8A%A4%ED%83%9D%2C%ED%81%90%2C%ED%95%B4%EC%8B%9C%2C%ED%9E%99)/%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95%20%EC%84%A4%EA%B3%84.py) |
+| 4 | 단어 찾기 | [단어 찾기](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section5_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(%EC%8A%A4%ED%83%9D%2C%ED%81%90%2C%ED%95%B4%EC%8B%9C%2C%ED%9E%99)/%EB%8B%A8%EC%96%B4%20%EC%B0%BE%EA%B8%B0.py) |
+| 5 | 쇠막대기 | [쇠막대기](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section5_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(%EC%8A%A4%ED%83%9D%2C%ED%81%90%2C%ED%95%B4%EC%8B%9C%2C%ED%9E%99)/%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0.py) |
+| 6 | 아나그램(딕셔너리 해시) | [아나그램(딕셔너리 해시)](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section5_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(%EC%8A%A4%ED%83%9D%2C%ED%81%90%2C%ED%95%B4%EC%8B%9C%2C%ED%9E%99)/%EC%95%84%EB%82%98%EA%B7%B8%EB%9E%A8(%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%20%ED%95%B4%EC%8B%9C)_1.py) |
+| 7 | 아나그램(리스트 해시) | [아나그램(리스트 해시)](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section5_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(%EC%8A%A4%ED%83%9D%2C%ED%81%90%2C%ED%95%B4%EC%8B%9C%2C%ED%9E%99)/%EC%95%84%EB%82%98%EA%B7%B8%EB%9E%A8(%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%95%B4%EC%8B%9C).py) |
+| 8 | 응급실 | [응급실](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section5_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(%EC%8A%A4%ED%83%9D%2C%ED%81%90%2C%ED%95%B4%EC%8B%9C%2C%ED%9E%99)/%EC%9D%91%EA%B8%89%EC%8B%A4.py) |
+| 9 | 최대힙 | [최대힙](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section5_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(%EC%8A%A4%ED%83%9D%2C%ED%81%90%2C%ED%95%B4%EC%8B%9C%2C%ED%9E%99)/%EC%B5%9C%EB%8C%80%ED%9E%99.py) |
+| 10 | 최소힙 | [최소힙](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section5_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(%EC%8A%A4%ED%83%9D%2C%ED%81%90%2C%ED%95%B4%EC%8B%9C%2C%ED%9E%99)/%EC%B5%9C%EC%86%8C%ED%9E%99.py) |
+| 11 | 후위표기식 만들기 | [후위표기식 만들기](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section5_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(%EC%8A%A4%ED%83%9D%2C%ED%81%90%2C%ED%95%B4%EC%8B%9C%2C%ED%9E%99)/%ED%9B%84%EC%9C%84%ED%91%9C%EA%B8%B0%EC%8B%9D%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) |
+| 12 | 후위표기식 연산 | [후위표기식 연산](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section5_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(%EC%8A%A4%ED%83%9D%2C%ED%81%90%2C%ED%95%B4%EC%8B%9C%2C%ED%9E%99)/%ED%9B%84%EC%9C%84%ED%91%9C%EA%B8%B0%EC%8B%9D%20%EC%97%B0%EC%82%B0.py) |
+
+### DFS(깊이우선탐색) - A
+| 번호 | 문제 | 풀이코드 |
+| --- | --- | ------ |
+| 1 | 경로 탐색(그래프) | [경로 탐색(그래프).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section6_DFS(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89)/%EA%B2%BD%EB%A1%9C%20%ED%83%90%EC%83%89(%EA%B7%B8%EB%9E%98%ED%94%84).py) |
+| 2 | 동전교환(Cut Edge Tech) | [동전교환(Cut Edge Tech).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section6_DFS(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89)/%EB%8F%99%EC%A0%84%EA%B5%90%ED%99%98(Cut%20Edge%20Tech).py) |
+| 3 | 무방향 그래프 | [무방향 그래프.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section6_DFS(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89)/%EB%AC%B4%EB%B0%A9%ED%96%A5%20%EA%B7%B8%EB%9E%98%ED%94%84.py) |
+| 4 | 바둑이 승차(Cut Edge Tech) | [바둑이 승차(Cut Edge Tech).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section6_DFS(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89)/%EB%B0%94%EB%91%91%EC%9D%B4%20%EC%8A%B9%EC%B0%A8(Cut%20Edge%20Tech).py) |
+| 5 | 부분집합 구하기 | [부분집합 구하기.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section6_DFS(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89)/%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.py) |
+| 6 | 수들의 조합 | [수들의 조합.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section6_DFS(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89)/%EC%88%98%EB%93%A4%EC%9D%98%20%EC%A1%B0%ED%95%A9.py) |
+| 7 | 수들의 조합_라이브러리 | [수들의 조합_라이브러리.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section6_DFS(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89)/%EC%88%98%EB%93%A4%EC%9D%98%20%EC%A1%B0%ED%95%A9_%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.py) |
+| 8 | 수열 추측하기(순열, 파스칼 응용) | [수열 추측하기(순열, 파스칼 응용).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section6_DFS(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89)/%EC%88%98%EC%97%B4%20%EC%B6%94%EC%B8%A1%ED%95%98%EA%B8%B0(%EC%88%9C%EC%97%B4%2C%20%ED%8C%8C%EC%8A%A4%EC%B9%BC%20%EC%9D%91%EC%9A%A9).py) |
+| 9 | 수열 추측하기(순열, 파스칼 응용)_라이브러리 | [수열 추측하기(순열, 파스칼 응용)_라이브러리.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section6_DFS(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89)/%EC%88%98%EC%97%B4%20%EC%B6%94%EC%B8%A1%ED%95%98%EA%B8%B0(%EC%88%9C%EC%97%B4%2C%20%ED%8C%8C%EC%8A%A4%EC%B9%BC%20%EC%9D%91%EC%9A%A9)_%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.py) |
+| 10 | 순열 구하기 | [순열 구하기.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section6_DFS(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89)/%EC%88%9C%EC%97%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.py) |
+| 11 | 이진트리순회(전위순회) | [이진트리순회(전위순회).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section6_DFS(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89)/%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC%EC%88%9C%ED%9A%8C(%EC%A0%84%EC%9C%84%EC%88%9C%ED%9A%8C).py) |
+| 12 | 이진트리순회(중위순회) | [이진트리순회(중위순회).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section6_DFS(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89)/%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC%EC%88%9C%ED%9A%8C(%EC%A4%91%EC%9C%84%EC%88%9C%ED%9A%8C).py) |
+| 13 | 이진트리순회(후위순회) | [이진트리순회(후위순회).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section6_DFS(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89)/%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC%EC%88%9C%ED%9A%8C(%ED%9B%84%EC%9C%84%EC%88%9C%ED%9A%8C).py) |
+| 14 | 인접행렬(가중치 방향 그래프) | [인접행렬(가중치 방향 그래프).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section6_DFS(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89)/%EC%9D%B8%EC%A0%91%ED%96%89%EB%A0%AC(%EA%B0%80%EC%A4%91%EC%B9%98%20%EB%B0%A9%ED%96%A5%20%EA%B7%B8%EB%9E%98%ED%94%84).py) |
+| 15 | 재귀함수를 이용한 2진수 출력 | [재귀함수를 이용한 2진수 출력.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section6_DFS(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89)/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%202%EC%A7%84%EC%88%98%20%EC%B6%9C%EB%A0%A5.py) |
+| 16 | 조합 구하기 | [조합 구하기.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section6_DFS(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89)/%EC%A1%B0%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.py) |
+| 17 | 중복순열 구하기 | [중복순열 구하기.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section6_DFS(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89)/%EC%A4%91%EB%B3%B5%EC%88%9C%EC%97%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.py) |
+| 18 | 합이 같은 부분집합 | [합이 같은 부분집합.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section6_DFS(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89)/%ED%95%A9%EC%9D%B4%20%EA%B0%99%EC%9D%80%20%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9.py) |
+| 19 | 합이 같은 부분집합_개선 | [합이 같은 부분집합_개선.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section6_DFS(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89)/%ED%95%A9%EC%9D%B4%20%EA%B0%99%EC%9D%80%20%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9_%EA%B0%9C%EC%84%A0.py) |
+
+### DFS(깊이우선탐색) - B
+| 번호 | 문제 | 풀이코드 |
+| --- | --- | ------ |
+| 1 | 단지 번호 붙이기 | [단지 번호 붙이기.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section7_DFS%2CBFS/DFS/%EB%8B%A8%EC%A7%80%20%EB%B2%88%ED%98%B8%20%EB%B6%99%EC%9D%B4%EA%B8%B0.py) |
+| 2 | 동전 바꿔주기 | [동전 바꿔주기.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section7_DFS%2CBFS/DFS/%EB%8F%99%EC%A0%84%20%EB%B0%94%EA%BF%94%EC%A3%BC%EA%B8%B0.py) |
+| 3 | 동전 분배하기 | [동전 분배하기.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section7_DFS%2CBFS/DFS/%EB%8F%99%EC%A0%84%20%EB%B6%84%EB%B0%B0%ED%95%98%EA%B8%B0.py) |
+| 4 | 등산경로 | [등산경로.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section7_DFS%2CBFS/DFS/%EB%93%B1%EC%82%B0%EA%B2%BD%EB%A1%9C.py) |
+| 5 | 미로탐색 | [미로탐색.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section7_DFS%2CBFS/DFS/%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89.py) |
+| 6 | 사다리 타기 | [사다리 타기.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section7_DFS%2CBFS/DFS/%EC%82%AC%EB%8B%A4%EB%A6%AC%20%ED%83%80%EA%B8%B0.py) |
+| 7 | 안전영역 | [안전영역.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section7_DFS%2CBFS/DFS/%EC%95%88%EC%A0%84%EC%98%81%EC%97%AD.py) |
+| 8 | 알파코드 | [알파코드.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section7_DFS%2CBFS/DFS/%EC%95%8C%ED%8C%8C%EC%BD%94%EB%93%9C.py) |
+| 9 | 양팔저울 | [양팔저울.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section7_DFS%2CBFS/DFS/%EC%96%91%ED%8C%94%EC%A0%80%EC%9A%B8.py) |
+| 10 | 최대점수 구하기_부분집합 풀이 | [최대점수 구하기_부분집합 풀이.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section7_DFS%2CBFS/DFS/%EC%B5%9C%EB%8C%80%EC%A0%90%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0_%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%20%ED%92%80%EC%9D%B4.py) |
+| 11 | 피자 배달 거리 | [피자 배달 거리.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section7_DFS%2CBFS/DFS/%ED%94%BC%EC%9E%90%20%EB%B0%B0%EB%8B%AC%20%EA%B1%B0%EB%A6%AC.py) |
+| 12 | 휴가 | [휴가.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section7_DFS%2CBFS/DFS/%ED%9C%B4%EA%B0%80.py) |
+
+### BFS(넓이우선탐색)
+| 번호 | 문제 | 풀이코드 |
+| --- | --- | ------ |
+| 1 | 단지 번호 붙이기 | [단지 번호 붙이기.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section7_DFS%2CBFS/BFS/%EB%8B%A8%EC%A7%80%20%EB%B2%88%ED%98%B8%20%EB%B6%99%EC%9D%B4%EA%B8%B0.py) |
+| 2 | 미로의 최단거리 통로 | [미로의 최단거리 통로.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section7_DFS%2CBFS/BFS/%EB%AF%B8%EB%A1%9C%EC%9D%98%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC%20%ED%86%B5%EB%A1%9C.py) |
+| 3 | 사과나무 | [사과나무.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section7_DFS%2CBFS/BFS/%EC%82%AC%EA%B3%BC%EB%82%98%EB%AC%B4.py) |
+| 4 | 섬나라 아일랜드 | [섬나라 아일랜드.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section7_DFS%2CBFS/BFS/%EC%84%AC%EB%82%98%EB%9D%BC%20%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C.py) |
+| 5 | 송아지 찾기 | [송아지 찾기.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section7_DFS%2CBFS/BFS/%EC%86%A1%EC%95%84%EC%A7%80%20%EC%B0%BE%EA%B8%B0.py) |
+| 6 | 안전영역 | [안전영역.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section7_DFS%2CBFS/BFS/%EC%95%88%EC%A0%84%EC%98%81%EC%97%AD.py) |
+| 7 | 토마토 | [토마토.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section7_DFS%2CBFS/BFS/%ED%86%A0%EB%A7%88%ED%86%A0.py) |
+
+### 동적 계획법(Dynamic Programming)
+| 번호 | 문제 | 풀이코드 |
+| --- | --- | ------ |
+| 1 | 가방문제_(냅색 알고리즘) | [가방문제_(냅색 알고리즘).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section8_%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/%EA%B0%80%EB%B0%A9%EB%AC%B8%EC%A0%9C_(%EB%83%85%EC%83%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98).py) |
+| 2 | 가장 높은 탑 쌓기_(LIS 응용) | [가장 높은 탑 쌓기_(LIS 응용).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section8_%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%ED%83%91%20%EC%8C%93%EA%B8%B0_(LIS%20%EC%9D%91%EC%9A%A9).py) |
+| 3 | 네트워크 선 자르기_(Bottom-Up) | [네트워크 선 자르기_(Bottom-Up).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section8_%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0_(Bottom-Up).py) |
+| 4 | 네트워크 선 자르기_(Top-Down)_재귀,메모이제이션 | [네트워크 선 자르기_(Top-Down)_재귀,메모이제이션.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section8_%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0_(Top-Down)_%EC%9E%AC%EA%B7%80%2C%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98.py) |
+| 5 | 도전과제_계단 오르기_(Top-Down) | [도전과제_계단 오르기_(Top-Down).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section8_%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/%EB%8F%84%EC%A0%84%EA%B3%BC%EC%A0%9C_%EA%B3%84%EB%8B%A8%20%EC%98%A4%EB%A5%B4%EA%B8%B0_(Top-Down).py) |
+| 6 | 도전과제_돌다리 건너기_(Bottom-Up) | [도전과제_돌다리 건너기_(Bottom-Up).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section8_%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/%EB%8F%84%EC%A0%84%EA%B3%BC%EC%A0%9C_%EB%8F%8C%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0_(Bottom-Up).py) |
+| 7 | 동전교환_(냅색 알고리즘) | [동전교환_(냅색 알고리즘).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section8_%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/%EB%8F%99%EC%A0%84%EA%B5%90%ED%99%98_(%EB%83%85%EC%83%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98).py) |
+| 8 | 알리바바와 40인의 도둑_(Bottom-Up) | [알리바바와 40인의 도둑_(Bottom-Up).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section8_%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%EC%99%80%2040%EC%9D%B8%EC%9D%98%20%EB%8F%84%EB%91%91_(Bottom-Up).py) |
+| 9 | 알리바바와 40인의 도둑_(Top-Down) | [알리바바와 40인의 도둑_(Top-Down).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section8_%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/%EC%95%8C%EB%A6%AC%EB%B0%94%EB%B0%94%EC%99%80%2040%EC%9D%B8%EC%9D%98%20%EB%8F%84%EB%91%91_(Top-Down).py) |
+| 10 | 위상정렬(그래프) | [위상정렬(그래프).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section8_%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC(%EA%B7%B8%EB%9E%98%ED%94%84).py) |
+| 11 | 최대 선 연결하기_(LIS 응용) | [최대 선 연결하기_(LIS 응용).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section8_%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/%EC%B5%9C%EB%8C%80%20%EC%84%A0%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0_(LIS%20%EC%9D%91%EC%9A%A9).py) |
+| 12 | 최대점수 구하기_(냅색 알고리즘) | [최대점수 구하기_(냅색 알고리즘).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section8_%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/%EC%B5%9C%EB%8C%80%EC%A0%90%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0_(%EB%83%85%EC%83%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98).py) |
+| 13 | 최장증가 부분수열_LIS(Longest Increasing Subsequence) | [최장증가 부분수열_LIS(Longest Increasing Subsequence).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section8_%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/%EC%B5%9C%EC%9E%A5%EC%A6%9D%EA%B0%80%20%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4_LIS(Longest%20Increasing%20Subsequence).py) |
+| 14 | 플로이드 워셜 알고리즘 | [플로이드 워셜 알고리즘.py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section8_%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%9B%8C%EC%85%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.py) |
+| 15 | 회장뽑기_(플루이드 워셜 알고리즘 응용) | [회장뽑기_(플루이드 워셜 알고리즘 응용).py](https://github.com/zcarc/problem-solving/blob/main/Inflearn/Section8_%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/%ED%9A%8C%EC%9E%A5%EB%BD%91%EA%B8%B0_(%ED%94%8C%EB%A3%A8%EC%9D%B4%EB%93%9C%20%EC%9B%8C%EC%85%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%91%EC%9A%A9).py) |
 
