@@ -139,4 +139,110 @@
 | 39 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Reverse Linked List II.md](https://github.com/zcarc/problem-solving/blob/main/LeetCode/92_Reverse%20Linked%20List%20II/92.md) |
 | 40 | [Reorder Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Reorder Log Files.md](https://github.com/zcarc/problem-solving/blob/main/LeetCode/937_Reorder%20Log%20Files/937.md) |
 
+## BOJ
+| 번호 | 문제 | 풀이코드 |
+| --- | --- | ------ |
+| 1 | [A+B](https://www.acmicpc.net/problem/1000) | [A+B.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1000.py) |
+| 2 | [A-B](https://www.acmicpc.net/problem/1001) | [A-B.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1001.py) |
+| 3 | [터렛](https://www.acmicpc.net/problem/1002) | [터렛.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1002_1.py) |
+| 4 | [A/B](https://www.acmicpc.net/problem/1008) | [A/B.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1008_1.py) |
+| 5 | [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | [Fly me to the Alpha Centauri.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1011.py) |
+| 6 | [고양이](https://www.acmicpc.net/problem/10171) | [고양이.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10171.py) |
+| 7 | [개](https://www.acmicpc.net/problem/10172) | [개.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10172.py) |
+| 8 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [체스판 다시 칠하기.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1018.py) |
+| 9 | [ACM 호텔](https://www.acmicpc.net/problem/10250) | [ACM 호텔.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10250_1.py) |
+| 10 | [나머지](https://www.acmicpc.net/problem/10430) | [나머지.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10430.py) |
+| 11 | [한수](https://www.acmicpc.net/problem/1065) | [한수.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1065.py) |
+| 12 | [We love kriii](https://www.acmicpc.net/problem/10718) | [We love kriii.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10718.py) |
+| 13 | [큰 수 A+B](https://www.acmicpc.net/problem/10757) | [큰 수 A+B.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10757.py) |
+| 14 | [10부제](https://www.acmicpc.net/problem/10797) | [10부제.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10797_1.py) |
+| 15 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [알파벳 찾기.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10809.py) |
+| 16 | [나이순 정렬](https://www.acmicpc.net/problem/10814) | [나이순 정렬.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10814.py) |
+| 17 | [최소, 최대](https://www.acmicpc.net/problem/10818) | [최소, 최대.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10818_1.py) |
+| 18 | [스택](https://www.acmicpc.net/problem/10828) | [스택.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10828.py) |
+| 19 | [직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [직사각형에서 탈출.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1085.py) |
+| 20 | [사칙연산](https://www.acmicpc.net/problem/10869) | [사칙연산.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10869.py) |
+| 21 | [피보나치 수 5](https://www.acmicpc.net/problem/10870) | [피보나치 수 5.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10870_1.py) |
+| 22 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [X보다 작은 수.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10871.py) |
+| 23 | [팩토리얼](https://www.acmicpc.net/problem/10872) | [팩토리얼.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10872_1.py) |
+| 24 | [A+B - 3](https://www.acmicpc.net/problem/10950) | [A+B - 3.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10950.py) |
+| 25 | [A+B - 4](https://www.acmicpc.net/problem/10951) | [A+B - 4.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10951.py) |
+| 26 | [A+B - 5](https://www.acmicpc.net/problem/10952) | [A+B - 5.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10952.py) |
+| 27 | [A+B - 6](https://www.acmicpc.net/problem/10953) | [A+B - 6.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10953_1.py) |
+| 28 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [수 정렬하기 3.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10989.py) |
+| 29 | [A×B](https://www.acmicpc.net/problem/10998) | [A×B.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/10998.py) |
+| 30 | [A+B - 7](https://www.acmicpc.net/problem/11021) | [A+B - 7.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/11021.py) |
+| 31 | [A+B - 8](https://www.acmicpc.net/problem/11022) | [A+B - 8.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/11022.py) |
+| 32 | [더하기 사이클](https://www.acmicpc.net/problem/1110) | [더하기 사이클.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1110.py) |
+| 33 | [단어의 개수](https://www.acmicpc.net/problem/1152) | [단어의 개수.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1152.py) |
+| 34 | [단어 공부](https://www.acmicpc.net/problem/1157) | [단어 공부.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1157.py) |
+| 35 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [좌표 정렬하기.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/11650_1.py) |
+| 36 | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | [좌표 정렬하기 2.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/11651_1.py) |
+| 37 | [소인수분해](https://www.acmicpc.net/problem/11653) | [소인수분해.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/11653_1.py) |
+| 38 | [아스키 코드](https://www.acmicpc.net/problem/11654) | [아스키 코드.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/11654.py) |
+| 39 | [숫자의 합](https://www.acmicpc.net/problem/11720) | [숫자의 합.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/11720.py) |
+| 40 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [하노이 탑 이동 순서.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/11729.py) |
+| 41 | [단어 정렬](https://www.acmicpc.net/problem/1181) | [단어 정렬.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1181_1.py) |
+| 42 | [분수찾기](https://www.acmicpc.net/problem/1193) | [분수찾기.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1193.py) |
+| 43 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | [그룹 단어 체커.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1316.py) |
+| 44 | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [두 수 비교하기.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1330.py) |
+| 45 | [소트인사이드](https://www.acmicpc.net/problem/1427) | [소트인사이드.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1427.py) |
+| 46 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | [영화감독 숌.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1436.py) |
+| 47 | [1로 만들기](https://www.acmicpc.net/problem/1463) | [1로 만들기.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1463.py) |
+| 48 | [사분면 고르기](https://www.acmicpc.net/problem/14681) | [사분면 고르기.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/14681.py) |
+| 49 | [평균](https://www.acmicpc.net/problem/1546) | [평균.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1546_1.py) |
+| 50 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | [빠른 A+B.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/15552.py) |
+| 51 | [정수 N개의 합](https://www.acmicpc.net/problem/15596) | [정수 N개의 합.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/15596.py) |
+| 52 | [손익분기점](https://www.acmicpc.net/problem/1712) | [손익분기점.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1712.py) |
+| 53 | [스택 수열](https://www.acmicpc.net/problem/1874) | [스택 수열.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1874.py) |
+| 54 | [좌표 압축](https://www.acmicpc.net/problem/18870) | [좌표 압축.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/18870.py) |
+| 55 | [하노이 탑](https://www.acmicpc.net/problem/1914) | [하노이 탑.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1914_1.py) |
+| 56 | [소수 구하기](https://www.acmicpc.net/problem/1929) | [소수 구하기.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1929_1.py) |
+| 57 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [소수 찾기.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/1978_1.py) |
+| 58 | [통계학](https://www.acmicpc.net/problem/2108) | [통계학.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2108.py) |
+| 59 | [분해합](https://www.acmicpc.net/problem/2231) | [분해합.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2231.py) |
+| 60 | [벌집](https://www.acmicpc.net/problem/2292) | [벌집.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2292.py) |
+| 61 | [별 찍기 - 1](https://www.acmicpc.net/problem/2438) | [별 찍기 - 1.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2438.py) |
+| 62 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [별 찍기 - 2.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2439.py) |
+| 63 | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | [별 찍기 - 10.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2447.py) |
+| 64 | [안전 영역](https://www.acmicpc.net/problem/2468) | [안전 영역.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2468_1.py) |
+| 65 | [약수 구하기](https://www.acmicpc.net/problem/2501) | [약수 구하기.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2501_1.py) |
+| 66 | [Hello World](https://www.acmicpc.net/problem/2557) | [Hello World.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2557.py) |
+| 67 | [A+B - 2](https://www.acmicpc.net/problem/2558) | [A+B - 2.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2558.py) |
+| 68 | [최댓값](https://www.acmicpc.net/problem/2562) | [최댓값.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2562_1.py) |
+| 69 | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [숫자의 개수.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2577_1.py) |
+| 70 | [소수](https://www.acmicpc.net/problem/2581) | [소수.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2581.py) |
+| 71 | [곱셈](https://www.acmicpc.net/problem/2588) | [곱셈.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2588_1.py) |
+| 72 | [회장뽑기](https://www.acmicpc.net/problem/2660) | [회장뽑기.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2660_1.py) |
+| 73 | [문자열 반복](https://www.acmicpc.net/problem/2675) | [문자열 반복.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2675.py) |
+| 74 | [구구단](https://www.acmicpc.net/problem/2739) | [구구단.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2739.py) |
+| 75 | [N 찍기](https://www.acmicpc.net/problem/2741) | [N 찍기.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2741.py) |
+| 76 | [기찍 N](https://www.acmicpc.net/problem/2742) | [기찍 N.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2742.py) |
+| 77 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | [수 정렬하기.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2750_1.py) |
+| 78 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [수 정렬하기 2.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2751.py) |
+| 79 | [윤년](https://www.acmicpc.net/problem/2753) | [윤년.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2753.py) |
+| 80 | [부녀회장이 될테야](https://www.acmicpc.net/problem/2775) | [부녀회장이 될테야.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2775_1.py) |
+| 81 | [블랙잭](https://www.acmicpc.net/problem/2798) | [블랙잭.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2798.py) |
+| 82 | [설탕 배달](https://www.acmicpc.net/problem/2839) | [설탕 배달.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2839.py) |
+| 83 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [달팽이는 올라가고 싶다.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2869_1.py) |
+| 84 | [알람 시계](https://www.acmicpc.net/problem/2884) | [알람 시계.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2884.py) |
+| 85 | [상수](https://www.acmicpc.net/problem/2908) | [상수.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2908.py) |
+| 86 | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | [크로아티아 알파벳.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/2941.py) |
+| 87 | [네 번째 점](https://www.acmicpc.net/problem/3009) | [네 번째 점.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/3009.py) |
+| 88 | [나머지](https://www.acmicpc.net/problem/3052) | [나머지.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/3052_1.py) |
+| 89 | [택시 기하학](https://www.acmicpc.net/problem/3053) | [택시 기하학.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/3053.py) |
+| 90 | [직각삼각형](https://www.acmicpc.net/problem/4153) | [직각삼각형.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/4153.py) |
+| 91 | [평균은 넘겠지](https://www.acmicpc.net/problem/4344) | [평균은 넘겠지.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/4344.py) |
+| 92 | [셀프 넘버](https://www.acmicpc.net/problem/4673) | [셀프 넘버.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/4673_1.py) |
+| 93 | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | [베르트랑 공준.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/4948_1.py) |
+| 94 | [다이얼](https://www.acmicpc.net/problem/5622) | [다이얼.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/5622.py) |
+| 95 | [덩치](https://www.acmicpc.net/problem/7568) | [덩치.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/7568.py) |
+| 96 | [토마토](https://www.acmicpc.net/problem/7576) | [토마토.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/7576.py) |
+| 97 | [합](https://www.acmicpc.net/problem/8393) | [합.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/8393.py) |
+| 98 | [OX퀴즈](https://www.acmicpc.net/problem/8958) | [OX퀴즈.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/8958_1.py) |
+| 99 | [괄호](https://www.acmicpc.net/problem/9012) | [괄호.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/9012.py) |
+| 100 | [골드바흐의 추측](https://www.acmicpc.net/problem/9020) | [골드바흐의 추측.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/9020.py) |
+| 101 | [단어 뒤집기](https://www.acmicpc.net/problem/9093) | [단어 뒤집기.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/9093_1.py) |
+| 102 | [시험 성적](https://www.acmicpc.net/problem/9498) | [시험 성적.py](https://github.com/zcarc/problem-solving/blob/main/BOJ/9498.py) |
+
 
