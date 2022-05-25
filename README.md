@@ -52,6 +52,42 @@
 | 45 | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | [예산.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level1/%EC%98%88%EC%82%B0.py) |
 | 46 | [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) | [최소직사각형.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.py) |
 
+### Level 2
+| 번호  | 문제 | 풀이코드 |
+|-----| --- | ------ |
+| 1 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [124 나라의 숫자.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90.py) |
+| 2 | [H-index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [H-index.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/H-index.py) |
+| 3 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [JadenCase 문자열 만들기.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) |
+| 4 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | [N개의 최소공배수.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py) |
+| 5 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | [가장 큰 수.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.py) |
+| 6 | [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) | [가장 큰 정사각형 찾기.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0.py) |
+| 7 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | [구명보트.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.py) |
+| 8 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [기능개발.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py) |
+| 9 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [다리를 지나는 트럭.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.py) <br /> [다리를 지나는 트럭.cpp](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.cpp) |
+| 10 | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) | [다음 큰 숫자.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.py) |
+| 11 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [더 맵게.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.py) |
+| 12 | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) | [땅따먹기.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0_%EB%8B%B5.py) |
+| 13 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | [멀쩡한 사각형.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95.py) |
+| 14 | [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | [방문 길이.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4.py) |
+| 15 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [소수 찾기.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.py) |
+| 16 | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924) | [숫자의 표현.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.py) |
+| 17 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | [스킬트리.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.py) <br /> [스킬트리_다른사람 풀이_1.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC_%EB%8B%A4%EB%A5%B8%EC%82%AC%EB%9E%8C%20%ED%92%80%EC%9D%B4_1.py) <br /> [스킬트리_다른사람 풀이_2.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC_%EB%8B%A4%EB%A5%B8%EC%82%AC%EB%9E%8C%20%ED%92%80%EC%9D%B4_2.py) |
+| 18 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) | [올바른 괄호.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.py) |
+| 19 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [위장.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EC%9C%84%EC%9E%A5.py) |
+| 20 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | [전화번호 목록.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.py) |
+| 21 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [조이스틱.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.py) |
+| 22 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [주식가격.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py) |
+| 23 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | [최댓값과 최솟값.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.py) |
+| 24 | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | [최솟값 만들기.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) |
+| 25 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [카펫.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EC%B9%B4%ED%8E%AB.py) |
+| 26 | [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936) | [쿼드압축 후 개수 세기.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EC%BF%BC%EB%93%9C%EC%95%95%EC%B6%95%20%ED%9B%84%20%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0.py) |
+| 27 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | [큰 수 만들기.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) <br /> [큰 수 만들기.cpp](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp) <br /> [큰 수 만들기.js](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js) <br /> [큰 수 만들기_효율적인풀이.js](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0_%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%ED%92%80%EC%9D%B4.js) |
+| 28 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [타겟 넘버.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.py) |
+| 29 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [프린터.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%ED%94%84%EB%A6%B0%ED%84%B0.py) <br /> [프린터_참고풀이.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%ED%94%84%EB%A6%B0%ED%84%B0_%EC%B0%B8%EA%B3%A0%ED%92%80%EC%9D%B4.py) |
+| 30 | [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946) | [피로도.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%ED%94%BC%EB%A1%9C%EB%8F%84.py) |
+| 31 | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | [피보나치 수.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.py) |
+| 32 | [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) | [행렬의 곱셈.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88.py) |
+
 ### Level 3
 | 번호 | 문제 | 풀이코드 |
 | --- | --- | ------ |
