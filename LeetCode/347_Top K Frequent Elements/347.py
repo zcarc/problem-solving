@@ -7,7 +7,7 @@ k = 2
 
 
 # 풀이 1. 우선순위 큐(heapq)와 카운터(Counter)로 풀이
-def s(numbers, k):
+def sSolution1(numbers, k):
     counter = collections.Counter(numbers)
     heap = []
 
@@ -21,12 +21,12 @@ def s(numbers, k):
     return answer
 
 
-print(s(nums, k))
+print(Solution1(nums, k))
 
 
 # 풀이 2. 파이썬다운 방식(Counter().most_common())
-def s2(nums, k):
+def Solution2(nums, k):
     return list(zip(*collections.Counter(nums).most_common(k)))[0]
 
 
-print(s2(nums, k))
+print(Solution2(nums, k))
