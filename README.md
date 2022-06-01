@@ -87,6 +87,7 @@
 | 30 | [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946) | [피로도.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%ED%94%BC%EB%A1%9C%EB%8F%84.py) |
 | 31 | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | [피보나치 수.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.py) |
 | 32 | [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) | [행렬의 곱셈.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88.py) |
+| 33 | [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) | [삼각 달팽이.py](https://github.com/zcarc/problem-solving/blob/main/Programmers/level2/%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.py) |
 
 ### Level 3
 | 번호 | 문제 | 풀이코드 |
