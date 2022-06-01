@@ -1,0 +1,63 @@
+import sys
+sys.setrecursionlimit(10 ** 7)
+
+
+def solution(n):
+    a = 1
+    d = 1
+    sum_arithmetic_sequence = n * ((2 * a) + ((n - 1) * d)) // 2
+
+    matrix = [[0] * (n + 1) for _ in range(n + 1)]
+
+    top = 1
+    left = 1
+    bottom = n
+    right = 0
+
+    def dfs(level, direction):
+        if level == sum_arithmetic_sequence:
+            return
+        else:
+            nonlocal top, left, bottom, right
+            if direction == 1:
+                for i in range(top, bottom + 1):
+                    level += 1
+                    matrix[i][left] = level
+                top += 1
+                left += 1
+                dfs(level, 2)
+            elif direction == 2:
+                for i in range(left, bottom - right + 1):
+                    level += 1
+                    matrix[bottom][i] = level
+                bottom -= 1
+                dfs(level, 3)
+            elif direction == 3:
+                for i in range(bottom, top - 1, -1):
+                    level += 1
+                    matrix[i][i - right] = level
+                right += 1
+                top += 1
+                dfs(level, 1)
+
+    dfs(0, 1)
+
+    res = []
+    for row in matrix:
+        for e in row:
+            if e > 0:
+                res.append(e)
+
+    return res
+
+
+# print(solution(5))
+# print(solution(10))
+print(solution(1000))
+
+
+# RecursionError 로 런타임 에러가 발생했는데, 재귀 한도를 늘려서 해결할 수 있었다.
+
+
+# 참고 (답 확인 X):
+# https://yabmoons.tistory.com/575
